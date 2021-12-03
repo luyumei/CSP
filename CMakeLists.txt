@@ -3,4 +3,4 @@ project(CSP)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(CSP "202109-1 ver 3(final ver).cpp")
+add_executable(CSP 202009-1.cpp)
